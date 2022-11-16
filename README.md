@@ -33,3 +33,9 @@ File > New > Project from Existing Sources > {Choose directory and Maven as Buil
 ```
 
 The API specification for this application can be found here : [Open API Specification](./specs/hexagonal-architecture-api.openapi.json)
+
+# Spring-Boot - Ports-And-Adapters / Hexagonal Architecture
+
+A POC of a Spring-Boot application based on **hexagonal architecture**
+
+![alt hexagonal architecture / port and adapters](https://i.imgur.com/eseWVlB.png)
